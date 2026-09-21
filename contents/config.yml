@@ -4,7 +4,7 @@ top-section-bg-text: Physics
 backgrounds:
   - static/assets/background/background_2.jpeg
 background-interval-ms: 7000
-background-overlay: 0.4
+background-overlay: 0.6
 copyright-text: '&copy; Yunyu Tao 2025-2026. All Rights Reserved.'
 github-link:
   text: Github
@@ -21,7 +21,4 @@ sections:
     nav: Share
     title: Share
     icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    icon: bi-award-fill
+

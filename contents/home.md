@@ -2,7 +2,7 @@
 
 [![Friedr1ch](https://img.shields.io/badge/Friedr1ch-github-blue?logo=github)](https://github.com/Friedr1ch)
 
-He is a Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University, advised by Prof. Mostafa Mousavi. His research focuses on developing machine learning and foundation-model approaches for seismic signal processing, earthquake monitoring, and related geophysical applications.
+He is an undergraduate student in the Department of physics, School of physical science and technology, Nanjing Normal University.
 
 
 #### Contact
@@ -12,15 +12,10 @@ Email: Yunyu.Tao[at]outlook.com
 
 #### Education
 
-Ph.D. in Earth and Planetary Sciences,
-Harvard University, 2026—Present
 
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022—2025
-
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+B.E. in Physics Sciencd and Technology,
+Nanjing Normal University, 2024-
 
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Physics science
