@@ -18,7 +18,7 @@ sections:
     title: Yunyu Tao&ensp;|&ensp;Berlin
     href: '#page-top' # Default to '#<id>' if not specified
   - id: share
-    nav: Share
+    nav: SHARE
     title: Share
     icon: bi-file-text-fill
 
