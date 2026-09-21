@@ -1,26 +1,26 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Yunyu Tao's Homepage
+page-top-title: Yunyu Tao
+top-section-bg-text: Physics
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Yunyu Tao 2025-2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/Friedr1ch
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/Friedr1ch/Friedr1ch.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Yunyu Tao&ensp;|&ensp;陶韫宇
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+  - id: share
+    nav: Share
+    title: Share
     icon: bi-file-text-fill
   - id: awards
     nav: AWARDS
