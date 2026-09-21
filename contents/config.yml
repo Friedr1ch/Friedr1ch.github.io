@@ -2,7 +2,6 @@ title: Yunyu Tao's Homepage
 page-top-title: Yunyu Tao
 top-section-bg-text: Physics
 backgrounds:
-  - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
@@ -16,7 +15,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: Yunyu Tao&ensp;|&ensp;陶韫宇
+    title: Yunyu Tao&ensp;|&ensp;Berlin
     href: '#page-top' # Default to '#<id>' if not specified
   - id: share
     nav: Share
