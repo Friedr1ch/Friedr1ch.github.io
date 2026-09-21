@@ -4,7 +4,7 @@ top-section-bg-text: Physics Science
 backgrounds:
   - static/assets/background/background_2.jpeg
 background-interval-ms: 7000
-background-overlay: 0.2
+background-overlay: 0
 copyright-text: '&copy; Yunyu Tao 2025-2026. All Rights Reserved.'
 github-link:
   text: Github
