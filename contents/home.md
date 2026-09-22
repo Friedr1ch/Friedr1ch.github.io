@@ -13,6 +13,6 @@ Email: Yunyu.Tao[at]outlook.com
 #### Education
 
 
-B.E. in Physics,
+B.S. in Physics,
 Nanjing Normal University, 2024-
 
