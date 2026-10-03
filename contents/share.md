@@ -10,5 +10,5 @@
 #### Methods of Mathematical Physics
 
 - <strong>Berlin</strong> (2026). <数学物理方法>近年期末样卷. <a href="/static/papers/Methods_of_Mathematical_Physics_simplepaper_finaltest.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-- <strong>Berlin</strong> (2026). <数学物理方法>2018期末. <a href="/static/papers/Methods_of_Mathematical _Physics_2018_finaltest.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-- <strong>Berlin</strong> (2026). <数学物理方法>2019期末. <a href="/static/papers/Methods_of_Mathematical _Physics_2019_finaltest.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+- <strong>Berlin</strong> (2026). <数学物理方法>2018期末. <a href="/static/papers/Methods_of_Mathematical_Physics_2018_finaltest.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+- <strong>Berlin</strong> (2026). <数学物理方法>2019期末. <a href="/static/papers/Methods_of_Mathematical_Physics_2019_finaltest.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
