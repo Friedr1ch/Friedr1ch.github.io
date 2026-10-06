@@ -20,7 +20,7 @@ sections:
   - id: physics-frontier
     nav: Frontier
     title: Physics Frontier
-- id: share
+  - id: share
     nav: SHARE
     title: Share
     icon: bi-file-text-fill
