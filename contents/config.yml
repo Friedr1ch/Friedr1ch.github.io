@@ -21,4 +21,6 @@ sections:
     nav: SHARE
     title: Share
     icon: bi-file-text-fill
-
+  - id: physics-frontier
+    nav: Frontier
+    title: Physics Frontier
