@@ -18,7 +18,7 @@ sections:
     title: Yunyu Tao&ensp;|&ensp;Berlin
     href: '#page-top' # Default to '#<id>' if not specified
   - id: physics-frontier
-    nav: Frontier
+    nav: FRONTIER
     title: Physics Frontier
   - id: share
     nav: SHARE
