@@ -262,3 +262,10 @@ section .main-body {
         animation: none;
     }
 }
+
+/* Brand icon */
+.brand-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    flex-shrink: 0;
+}
